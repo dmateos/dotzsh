@@ -1,1 +1,1 @@
-<img src="https://github.com/dmateos/dotzsh/blob/master/zsh.png" />
+<img src="https://raw.github.com/dmateos/dotzsh/master/zsh.png" />
