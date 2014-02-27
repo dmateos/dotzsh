@@ -14,3 +14,5 @@ done
 for source in $pre_sources $auto_sources $post_sources; do
   source ~/.zsh/$source.zsh
 done
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting

@@ -12,3 +12,6 @@ setopt notify
 
 # Parameter expansion, command substitution and arithmetic expansion are performed in prompts.
 setopt prompt_subst
+
+REPORTTIME=2
+
